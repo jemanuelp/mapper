@@ -14,7 +14,7 @@
     },
     "private": true,
     "dependencies": {
-        "@swc/helpers": "~0.4.11",
+        "@swc/helpers": "~0.5.17",
         "tslib": "~2.8.1"
     },
     "devDependencies": {
@@ -36,9 +36,9 @@
         "@nrwl/workspace": "15.9.7",
         "@release-it/bumper": "4.0.2",
         "@release-it/conventional-changelog": "5.1.1",
-        "@swc/cli": "~0.1.55",
+        "@swc/cli": "~0.7.9",
         "@swc/core": "^1.15.2",
-        "@swc/jest": "0.2.20",
+        "@swc/jest": "0.2.39",
         "@types/jest": "29.5.14",
         "@types/node": "18.19.130",
         "@types/supertest": "2.0.16",
